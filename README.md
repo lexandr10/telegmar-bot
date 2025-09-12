@@ -8,13 +8,13 @@
 ## Quickstart
 
 ### Backend
-cd backend
-yarn install
-yarn dev
+- cd backend
+- yarn install
+- yarn dev
 # env variables — see backend/.env.example
 
 ### Admin
-cd admin
-yarn
-yarn dev
+- cd admin
+- yarn install
+- yarn dev
 # env variables — see admin/.env.example
