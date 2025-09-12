@@ -9,6 +9,7 @@
 
 ### Backend
 - cd backend
+- docker compose up -d
 - yarn install
 - yarn dev
 # env variables — see backend/.env.example
